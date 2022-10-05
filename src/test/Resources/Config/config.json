@@ -1,0 +1,17 @@
+{
+  "dev": {
+    "baseURL": "http://localhost:8085",
+    "userName": "",
+    "pasword": ""
+  },
+  "qa": {
+    "baseURL": "https://petstore3.swagger.io",
+    "userName": "",
+    "pasword": ""
+  },
+  "uat": {
+    "baseURL": "https://petstore3.swagger.io",
+    "userName": "",
+    "pasword": ""
+  }
+}

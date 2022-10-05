@@ -1,0 +1,12 @@
+{
+  "ps_test1": {
+    "endpointPath": "/api/v3/pet/findByStatus",
+    "pathParam": "",
+    "queryParam": "?status=available",
+    "responseCode":"200",
+    "devRequestData": "",
+    "qaRequestData": "",
+    "devExpectedResponse": "",
+    "qaExpectedResponse": ""
+  }
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="PetStore Tests" verbose="2" annotations="JDK">
+    <test name="GetServiceTest" preserve-order="true" >
+        <classes>
+            <class name="test.PetStoreTest1" />
+        </classes>
+    </test>
+</suite>
